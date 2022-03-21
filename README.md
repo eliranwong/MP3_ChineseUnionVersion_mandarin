@@ -10,9 +10,9 @@ We pack audio files for individual books into separate zip files, to make it eas
 
 They are created for running verse-by-verse audio features available in <a href="https://github.com/eliranwong/UniqueBible">Unique Bible App</a>.
 
-# About BBE
+# About CUV
 
-Bible in Basic English is in public domain.
+Chinese Union Version is in public domain.
 
 # License
 
